@@ -1,7 +1,7 @@
 ### GMM & EM clustering algorithms
 # CS342: Machine Learning GMM assignment
 
-This assignment uses </PCA\>, </K-means clustering\>, and </GMM and EM clustering algorithms\> .
+This assignment uses <mark>PCA</mark>, <mark>K-means clustering</mark>, and <mark>GMM and EM algorithms</mark>.
 
 This approach from scratch implements a PCA analysis on the IRIS dataset to select the principal components and visualises them.
 Then K-means clustering of the principal components is implemented and the cluster assignment visualised after which the accuracy is caculated.
