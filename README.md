@@ -1,5 +1,5 @@
-### GMM & EM clustering algorithms
-# CS342: Machine Learning GMM assignment
+# GMM & EM clustering algorithms
+### CS342: Machine Learning GMM assignment
 
 This assignment uses <mark>PCA</mark>, <mark>K-means clustering</mark>, and <mark>GMM and EM algorithms</mark>.
 
